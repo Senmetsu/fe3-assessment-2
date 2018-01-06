@@ -142,6 +142,13 @@ legend.append("text")
 
 ## Dataset
 Dataset: https://data.europa.eu/euodp/en/data/dataset/WUhuriZldIxgoxTJICVELw
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 | Countries        | 2014           | 2015           | 2016           |
 | ---------------- |:--------------:| :-------------:|:--------------:|
 | NL               | 16.9           | 16.7           | 16.5           |
