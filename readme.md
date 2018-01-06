@@ -1,6 +1,5 @@
 # Assessment 2
-[preview.png]
-
+[preview](preview.png)
 ## Github Page
 Dataset: https://data.europa.eu/euodp/en/data/dataset/WUhuriZldIxgoxTJICVELw
 
