@@ -141,13 +141,15 @@ legend.append("text")
 
 
 ## Dataset
+Dataset: https://data.europa.eu/euodp/en/data/dataset/WUhuriZldIxgoxTJICVELw
 | Countries        | 2014           | 2015           | 2016           |
+| ------------- |:-------------:| -----:|---:|
 | NL            | 16.9           | 16.7           | 16.5           |
 | DE            | 10.8           | 10.7           | 10.7           |
 | BE            | 33.6           | 33.3           | 33.1           |
 
 ## License
-MIT
+MIT Sam Guliker
 
 ## Features
 * [scaleBand](https://github.com/d3/d3-scale/blob/master/README.md#scaleBand)
