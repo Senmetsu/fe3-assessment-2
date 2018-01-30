@@ -2,7 +2,7 @@
 ![preview](preview.png)
 
 ## Github Page
-link:[Assessment 2] (https://data.europa.eu/euodp/en/data/dataset/WUhuriZldIxgoxTJICVELw)
+link:[Assessment 2](https://senmetsu.github.io/fe3-assessment-2/)
 
 ## Beschrijving
 Vanuit deze opdracht moesten we dirty data schoon maken.
